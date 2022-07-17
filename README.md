@@ -4,7 +4,9 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 ## Ejercicios resueltos:
 
-[1. Introducción a .NET y creación de APIs](https://github.com/seder111/ob-APIs.NET-training).
+[2. Instalación y creación del proyecto.](https://github.com/seder111/ob-APIs.NET-training/tree/main/2.%20Instalaci%C3%B3n%20y%20creaci%C3%B3n%20proyecto)
+
+[3. Relaciones y controladores.](https://github.com/seder111/ob-APIs.NET-training/tree/main/3.%20Relaciones%20y%20controladores)
 
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
