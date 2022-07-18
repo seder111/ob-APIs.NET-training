@@ -1,4 +1,4 @@
-# 1. Introducción a .NET y creación de APIs - APIs con .NET 
+# 3. Relaciones y controladores - APIs con .NET 
 
 ## Ejercicio:
 

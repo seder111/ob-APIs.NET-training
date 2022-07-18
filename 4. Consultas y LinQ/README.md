@@ -1,4 +1,4 @@
-# 1. Introducción a .NET y creación de APIs - APIs con .NET 
+# 4. Consultas y LINQ - APIs con .NET 
 
 ## Ejercicio:
 
