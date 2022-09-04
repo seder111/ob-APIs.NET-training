@@ -12,6 +12,8 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 [5. Más consultas, Servicios y CORS](https://github.com/seder111/ob-APIs.NET-training/tree/main/5.%20M%C3%A1s%20consultas%2C%20Servicios%20y%20CORS)
 
+[6. Configuraciones JWT](https://github.com/seder111/ob-APIs.NET-training/tree/main/6.%20Configuraciones%20JWT)
+
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
