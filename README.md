@@ -14,6 +14,8 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 [6. Configuraciones JWT](https://github.com/seder111/ob-APIs.NET-training/tree/main/6.%20Configuraciones%20JWT)
 
+[7. Extendiendo servicios, proteccion de rutas](https://github.com/seder111/ob-APIs.NET-training/tree/main/7.%20Extendiendo%20servicios%2C%20protecci%C3%B3n%20de%20rutas)
+
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
