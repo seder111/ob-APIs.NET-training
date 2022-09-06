@@ -16,6 +16,8 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 [7. Extendiendo servicios, proteccion de rutas](https://github.com/seder111/ob-APIs.NET-training/tree/main/7.%20Extendiendo%20servicios%2C%20protecci%C3%B3n%20de%20rutas)
 
+[8. Control de versiones API Restful](https://github.com/seder111/ob-APIs.NET-training/tree/main/8.%20Usando%20Linq%20e%20internacionalizaci%C3%B3n%20app)
+
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
