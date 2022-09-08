@@ -125,28 +125,6 @@ namespace UniversityApiBackend.Controllers
             return NoContent();
         }
 
-
-        [HttpGet("/api/Students/GetStudentsWithCourses")]
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Administrator")]
-        public async Task<IActionResult> GetStudentsWithCourses()
-        {
-
-            var students = _context.Students;
-
-            if (students == null) { return NoContent(); }
-
-
-            var studentsWithCourses = await students
-                .Where(x => x.Courses.Any())
-                .Include(x => x.Courses)
-                .ToListAsync();
-
-            return Ok(studentsWithCourses);
-        }
-
-
-
-
         private bool StudentExists(int id)
         {
             return (_context.Students?.Any(e => e.Id == id)).GetValueOrDefault();

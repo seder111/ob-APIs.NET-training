@@ -98,7 +98,6 @@ namespace UniversityApiBackend.Controllers
         {
             var UserList = await _context.Users.ToListAsync();
 
-
             return Ok(UserList);
         }
 

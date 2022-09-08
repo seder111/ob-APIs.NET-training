@@ -20,6 +20,8 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 [9. Control de versiones API Restful](https://github.com/seder111/ob-APIs.NET-training/tree/main/9.%20Control%20de%20versiones%20API%20Restful)
 
+[10. Logs en aplicaciones .NET](https://github.com/seder111/ob-APIs.NET-training/tree/main/10.%20Logs%20en%20aplicaciones%20.Net)
+
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
